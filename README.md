@@ -1,3 +1,7 @@
+Page is live at  https://rajbharati2705.github.io/TopCources/
+
+We can like card here and we get toast from right and filteration is done based on categories and sucessfully deployed on github pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
